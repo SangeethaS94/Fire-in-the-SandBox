@@ -78,6 +78,7 @@ We have attempted to scale the model to reality. The estimated scales are as fol
 - Horizontal Scale: 1:2550
 - Vertical Scale: 1:1040
 - Time Scale: 1:1800 (1 second = 30 minutes) (This scale applies when FrameRate is 1. Scale to be adjusted based on the chosed FrameRate)
+
 However, these values are approximate and hence should be used with caution.
 
 ## References:

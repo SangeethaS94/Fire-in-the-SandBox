@@ -54,7 +54,7 @@ On the bottom right of the application is the main control options for the model
 - Add a Fireman: Button to add a fireman at a random location on the land
 - Reset: This button clears the display and resets the model
 
-(Note: The buttons *Add a House* and *Add a Fireman* clicked several times to change the position of the house or fireman)
+(Note: The buttons *Add a House* and *Add a Fireman* can be clicked several times to change the position of the house or fireman)
 (Rest of the interface is the same as Magic Sand software)
 
 

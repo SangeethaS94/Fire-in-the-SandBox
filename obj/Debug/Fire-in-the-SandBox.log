@@ -1,0 +1,120 @@
+﻿C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppBuild.targets(392,5): warning MSB8028: The intermediate directory (obj\Debug\) contains files shared from another project (Magic-Sand-master.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  main.cpp
+  ofApp.cpp
+src\ofApp.cpp(124): warning C4554: '&': check operator precedence for possible error; use parentheses to clarify precedence
+src\ofApp.cpp(125): warning C4554: '&': check operator precedence for possible error; use parentheses to clarify precedence
+c:\users\sangeetha\documents\pg\muenster_gi\courses\sem 2\sandbox\of_v0.9.8_vs_release\of_v0.9.8_vs_release\apps\myapps\fire-in-the-sandbox\fire-in-the-sandbox\src\kinectprojector\libs\dlib\matrix/matrix.h(1567): warning C4297: 'dlib::matrix<double,2,2,dlib::default_memory_manager,dlib::row_major_layout>::literal_assign_helper::~literal_assign_helper': function assumed not to throw an exception but does (compiling source file src\main.cpp)
+  c:\users\sangeetha\documents\pg\muenster_gi\courses\sem 2\sandbox\of_v0.9.8_vs_release\of_v0.9.8_vs_release\apps\myapps\fire-in-the-sandbox\fire-in-the-sandbox\src\kinectprojector\libs\dlib\matrix/matrix.h(1567): note: destructor or deallocator has a (possibly implicit) non-throwing exception specification (compiling source file src\main.cpp)
+  c:\users\sangeetha\documents\pg\muenster_gi\courses\sem 2\sandbox\of_v0.9.8_vs_release\of_v0.9.8_vs_release\apps\myapps\fire-in-the-sandbox\fire-in-the-sandbox\src\kinectprojector\libs\dlib\matrix/matrix.h(1566): note: while compiling class template member function 'dlib::matrix<double,2,2,dlib::default_memory_manager,dlib::row_major_layout>::literal_assign_helper::~literal_assign_helper(void)' (compiling source file src\main.cpp)
+  c:\users\sangeetha\documents\pg\muenster_gi\courses\sem 2\sandbox\of_v0.9.8_vs_release\of_v0.9.8_vs_release\apps\myapps\fire-in-the-sandbox\fire-in-the-sandbox\src\kinectprojector\libs\dlib\geometry\vector.h(1370): note: see reference to function template instantiation 'dlib::matrix<double,2,2,dlib::default_memory_manager,dlib::row_major_layout>::literal_assign_helper::~literal_assign_helper(void)' being compiled (compiling source file src\main.cpp)
+  c:\users\sangeetha\documents\pg\muenster_gi\courses\sem 2\sandbox\of_v0.9.8_vs_release\of_v0.9.8_vs_release\apps\myapps\fire-in-the-sandbox\fire-in-the-sandbox\src\kinectprojector\libs\dlib\geometry\vector.h(1369): note: see reference to class template instantiation 'dlib::matrix<double,2,2,dlib::default_memory_manager,dlib::row_major_layout>::literal_assign_helper' being compiled (compiling source file src\main.cpp)
+src\ofApp.cpp(361): warning C4554: '&': check operator precedence for possible error; use parentheses to clarify precedence
+src\ofApp.cpp(365): warning C4554: '&': check operator precedence for possible error; use parentheses to clarify precedence
+src\ofApp.cpp(369): warning C4554: '&': check operator precedence for possible error; use parentheses to clarify precedence
+src\ofApp.cpp(374): warning C4554: '&': check operator precedence for possible error; use parentheses to clarify precedence
+src\ofApp.cpp(377): warning C4554: '&': check operator precedence for possible error; use parentheses to clarify precedence
+src\ofApp.cpp(380): warning C4554: '&': check operator precedence for possible error; use parentheses to clarify precedence
+src\ofApp.cpp(383): warning C4554: '&': check operator precedence for possible error; use parentheses to clarify precedence
+src\ofApp.cpp(388): warning C4554: '&': check operator precedence for possible error; use parentheses to clarify precedence
+src\ofApp.cpp(391): warning C4554: '&': check operator precedence for possible error; use parentheses to clarify precedence
+src\ofApp.cpp(394): warning C4554: '&': check operator precedence for possible error; use parentheses to clarify precedence
+c:\users\sangeetha\documents\pg\muenster_gi\courses\sem 2\sandbox\of_v0.9.8_vs_release\of_v0.9.8_vs_release\apps\myapps\fire-in-the-sandbox\fire-in-the-sandbox\src\kinectprojector\libs\dlib\matrix/matrix.h(1567): warning C4297: 'dlib::matrix<double,2,2,dlib::default_memory_manager,dlib::row_major_layout>::literal_assign_helper::~literal_assign_helper': function assumed not to throw an exception but does (compiling source file src\ofApp.cpp)
+  c:\users\sangeetha\documents\pg\muenster_gi\courses\sem 2\sandbox\of_v0.9.8_vs_release\of_v0.9.8_vs_release\apps\myapps\fire-in-the-sandbox\fire-in-the-sandbox\src\kinectprojector\libs\dlib\matrix/matrix.h(1567): note: destructor or deallocator has a (possibly implicit) non-throwing exception specification (compiling source file src\ofApp.cpp)
+  c:\users\sangeetha\documents\pg\muenster_gi\courses\sem 2\sandbox\of_v0.9.8_vs_release\of_v0.9.8_vs_release\apps\myapps\fire-in-the-sandbox\fire-in-the-sandbox\src\kinectprojector\libs\dlib\matrix/matrix.h(1566): note: while compiling class template member function 'dlib::matrix<double,2,2,dlib::default_memory_manager,dlib::row_major_layout>::literal_assign_helper::~literal_assign_helper(void)' (compiling source file src\ofApp.cpp)
+  c:\users\sangeetha\documents\pg\muenster_gi\courses\sem 2\sandbox\of_v0.9.8_vs_release\of_v0.9.8_vs_release\apps\myapps\fire-in-the-sandbox\fire-in-the-sandbox\src\kinectprojector\libs\dlib\geometry\vector.h(1370): note: see reference to function template instantiation 'dlib::matrix<double,2,2,dlib::default_memory_manager,dlib::row_major_layout>::literal_assign_helper::~literal_assign_helper(void)' being compiled (compiling source file src\ofApp.cpp)
+  c:\users\sangeetha\documents\pg\muenster_gi\courses\sem 2\sandbox\of_v0.9.8_vs_release\of_v0.9.8_vs_release\apps\myapps\fire-in-the-sandbox\fire-in-the-sandbox\src\kinectprojector\libs\dlib\geometry\vector.h(1369): note: see reference to class template instantiation 'dlib::matrix<double,2,2,dlib::default_memory_manager,dlib::row_major_layout>::literal_assign_helper' being compiled (compiling source file src\ofApp.cpp)
+c:\users\sangeetha\documents\pg\muenster_gi\courses\sem 2\sandbox\of_v0.9.8_vs_release\of_v0.9.8_vs_release\apps\myapps\fire-in-the-sandbox\fire-in-the-sandbox\src\ofapp.cpp(755): warning C4715: 'ofApp::headingDirection': not all control paths return a value
+c:\users\sangeetha\documents\pg\muenster_gi\courses\sem 2\sandbox\of_v0.9.8_vs_release\of_v0.9.8_vs_release\apps\myapps\fire-in-the-sandbox\fire-in-the-sandbox\src\ofapp.cpp(777): warning C4715: 'ofApp::checkSameDirection': not all control paths return a value
+c:\users\sangeetha\documents\pg\muenster_gi\courses\sem 2\sandbox\of_v0.9.8_vs_release\of_v0.9.8_vs_release\apps\myapps\fire-in-the-sandbox\fire-in-the-sandbox\src\ofapp.cpp(767): warning C4715: 'ofApp::backingDirection': not all control paths return a value
+  KinectGrabber.cpp
+  KinectProjector.cpp
+c:\users\sangeetha\documents\pg\muenster_gi\courses\sem 2\sandbox\of_v0.9.8_vs_release\of_v0.9.8_vs_release\apps\myapps\fire-in-the-sandbox\fire-in-the-sandbox\src\kinectprojector\libs\dlib\matrix/matrix.h(1567): warning C4297: 'dlib::matrix<double,2,2,dlib::default_memory_manager,dlib::row_major_layout>::literal_assign_helper::~literal_assign_helper': function assumed not to throw an exception but does (compiling source file src\KinectProjector\KinectProjector.cpp)
+  c:\users\sangeetha\documents\pg\muenster_gi\courses\sem 2\sandbox\of_v0.9.8_vs_release\of_v0.9.8_vs_release\apps\myapps\fire-in-the-sandbox\fire-in-the-sandbox\src\kinectprojector\libs\dlib\matrix/matrix.h(1567): note: destructor or deallocator has a (possibly implicit) non-throwing exception specification (compiling source file src\KinectProjector\KinectProjector.cpp)
+  c:\users\sangeetha\documents\pg\muenster_gi\courses\sem 2\sandbox\of_v0.9.8_vs_release\of_v0.9.8_vs_release\apps\myapps\fire-in-the-sandbox\fire-in-the-sandbox\src\kinectprojector\libs\dlib\matrix/matrix.h(1566): note: while compiling class template member function 'dlib::matrix<double,2,2,dlib::default_memory_manager,dlib::row_major_layout>::literal_assign_helper::~literal_assign_helper(void)' (compiling source file src\KinectProjector\KinectProjector.cpp)
+  c:\users\sangeetha\documents\pg\muenster_gi\courses\sem 2\sandbox\of_v0.9.8_vs_release\of_v0.9.8_vs_release\apps\myapps\fire-in-the-sandbox\fire-in-the-sandbox\src\kinectprojector\libs\dlib\geometry\vector.h(1370): note: see reference to function template instantiation 'dlib::matrix<double,2,2,dlib::default_memory_manager,dlib::row_major_layout>::literal_assign_helper::~literal_assign_helper(void)' being compiled (compiling source file src\KinectProjector\KinectProjector.cpp)
+  c:\users\sangeetha\documents\pg\muenster_gi\courses\sem 2\sandbox\of_v0.9.8_vs_release\of_v0.9.8_vs_release\apps\myapps\fire-in-the-sandbox\fire-in-the-sandbox\src\kinectprojector\libs\dlib\geometry\vector.h(1369): note: see reference to class template instantiation 'dlib::matrix<double,2,2,dlib::default_memory_manager,dlib::row_major_layout>::literal_assign_helper' being compiled (compiling source file src\KinectProjector\KinectProjector.cpp)
+  KinectProjectorCalibration.cpp
+c:\users\sangeetha\documents\pg\muenster_gi\courses\sem 2\sandbox\of_v0.9.8_vs_release\of_v0.9.8_vs_release\apps\myapps\fire-in-the-sandbox\fire-in-the-sandbox\src\kinectprojector\libs\dlib\matrix/matrix.h(1567): warning C4297: 'dlib::matrix<double,2,2,dlib::default_memory_manager,dlib::row_major_layout>::literal_assign_helper::~literal_assign_helper': function assumed not to throw an exception but does (compiling source file src\KinectProjector\KinectProjectorCalibration.cpp)
+  c:\users\sangeetha\documents\pg\muenster_gi\courses\sem 2\sandbox\of_v0.9.8_vs_release\of_v0.9.8_vs_release\apps\myapps\fire-in-the-sandbox\fire-in-the-sandbox\src\kinectprojector\libs\dlib\matrix/matrix.h(1567): note: destructor or deallocator has a (possibly implicit) non-throwing exception specification (compiling source file src\KinectProjector\KinectProjectorCalibration.cpp)
+  c:\users\sangeetha\documents\pg\muenster_gi\courses\sem 2\sandbox\of_v0.9.8_vs_release\of_v0.9.8_vs_release\apps\myapps\fire-in-the-sandbox\fire-in-the-sandbox\src\kinectprojector\libs\dlib\matrix/matrix.h(1566): note: while compiling class template member function 'dlib::matrix<double,2,2,dlib::default_memory_manager,dlib::row_major_layout>::literal_assign_helper::~literal_assign_helper(void)' (compiling source file src\KinectProjector\KinectProjectorCalibration.cpp)
+  c:\users\sangeetha\documents\pg\muenster_gi\courses\sem 2\sandbox\of_v0.9.8_vs_release\of_v0.9.8_vs_release\apps\myapps\fire-in-the-sandbox\fire-in-the-sandbox\src\kinectprojector\libs\dlib\geometry\vector.h(1370): note: see reference to function template instantiation 'dlib::matrix<double,2,2,dlib::default_memory_manager,dlib::row_major_layout>::literal_assign_helper::~literal_assign_helper(void)' being compiled (compiling source file src\KinectProjector\KinectProjectorCalibration.cpp)
+  c:\users\sangeetha\documents\pg\muenster_gi\courses\sem 2\sandbox\of_v0.9.8_vs_release\of_v0.9.8_vs_release\apps\myapps\fire-in-the-sandbox\fire-in-the-sandbox\src\kinectprojector\libs\dlib\geometry\vector.h(1369): note: see reference to class template instantiation 'dlib::matrix<double,2,2,dlib::default_memory_manager,dlib::row_major_layout>::literal_assign_helper' being compiled (compiling source file src\KinectProjector\KinectProjectorCalibration.cpp)
+  unicode.cpp
+  ColorMap.cpp
+  SandSurfaceRenderer.cpp
+src\SandSurfaceRenderer\ColorMap.cpp(192): warning C4101: 'numKeys': unreferenced local variable
+  vehicle.cpp
+c:\users\sangeetha\documents\pg\muenster_gi\courses\sem 2\sandbox\of_v0.9.8_vs_release\of_v0.9.8_vs_release\apps\myapps\fire-in-the-sandbox\fire-in-the-sandbox\src\kinectprojector\libs\dlib\matrix/matrix.h(1567): warning C4297: 'dlib::matrix<double,2,2,dlib::default_memory_manager,dlib::row_major_layout>::literal_assign_helper::~literal_assign_helper': function assumed not to throw an exception but does (compiling source file src\SandSurfaceRenderer\SandSurfaceRenderer.cpp)
+  c:\users\sangeetha\documents\pg\muenster_gi\courses\sem 2\sandbox\of_v0.9.8_vs_release\of_v0.9.8_vs_release\apps\myapps\fire-in-the-sandbox\fire-in-the-sandbox\src\kinectprojector\libs\dlib\matrix/matrix.h(1567): note: destructor or deallocator has a (possibly implicit) non-throwing exception specification (compiling source file src\SandSurfaceRenderer\SandSurfaceRenderer.cpp)
+  c:\users\sangeetha\documents\pg\muenster_gi\courses\sem 2\sandbox\of_v0.9.8_vs_release\of_v0.9.8_vs_release\apps\myapps\fire-in-the-sandbox\fire-in-the-sandbox\src\kinectprojector\libs\dlib\matrix/matrix.h(1566): note: while compiling class template member function 'dlib::matrix<double,2,2,dlib::default_memory_manager,dlib::row_major_layout>::literal_assign_helper::~literal_assign_helper(void)' (compiling source file src\SandSurfaceRenderer\SandSurfaceRenderer.cpp)
+  c:\users\sangeetha\documents\pg\muenster_gi\courses\sem 2\sandbox\of_v0.9.8_vs_release\of_v0.9.8_vs_release\apps\myapps\fire-in-the-sandbox\fire-in-the-sandbox\src\kinectprojector\libs\dlib\geometry\vector.h(1370): note: see reference to function template instantiation 'dlib::matrix<double,2,2,dlib::default_memory_manager,dlib::row_major_layout>::literal_assign_helper::~literal_assign_helper(void)' being compiled (compiling source file src\SandSurfaceRenderer\SandSurfaceRenderer.cpp)
+  c:\users\sangeetha\documents\pg\muenster_gi\courses\sem 2\sandbox\of_v0.9.8_vs_release\of_v0.9.8_vs_release\apps\myapps\fire-in-the-sandbox\fire-in-the-sandbox\src\kinectprojector\libs\dlib\geometry\vector.h(1369): note: see reference to class template instantiation 'dlib::matrix<double,2,2,dlib::default_memory_manager,dlib::row_major_layout>::literal_assign_helper' being compiled (compiling source file src\SandSurfaceRenderer\SandSurfaceRenderer.cpp)
+c:\users\sangeetha\documents\pg\muenster_gi\courses\sem 2\sandbox\of_v0.9.8_vs_release\of_v0.9.8_vs_release\apps\myapps\fire-in-the-sandbox\fire-in-the-sandbox\src\kinectprojector\libs\dlib\matrix/matrix.h(1567): warning C4297: 'dlib::matrix<double,2,2,dlib::default_memory_manager,dlib::row_major_layout>::literal_assign_helper::~literal_assign_helper': function assumed not to throw an exception but does (compiling source file src\vehicle.cpp)
+  c:\users\sangeetha\documents\pg\muenster_gi\courses\sem 2\sandbox\of_v0.9.8_vs_release\of_v0.9.8_vs_release\apps\myapps\fire-in-the-sandbox\fire-in-the-sandbox\src\kinectprojector\libs\dlib\matrix/matrix.h(1567): note: destructor or deallocator has a (possibly implicit) non-throwing exception specification (compiling source file src\vehicle.cpp)
+  c:\users\sangeetha\documents\pg\muenster_gi\courses\sem 2\sandbox\of_v0.9.8_vs_release\of_v0.9.8_vs_release\apps\myapps\fire-in-the-sandbox\fire-in-the-sandbox\src\kinectprojector\libs\dlib\matrix/matrix.h(1566): note: while compiling class template member function 'dlib::matrix<double,2,2,dlib::default_memory_manager,dlib::row_major_layout>::literal_assign_helper::~literal_assign_helper(void)' (compiling source file src\vehicle.cpp)
+  c:\users\sangeetha\documents\pg\muenster_gi\courses\sem 2\sandbox\of_v0.9.8_vs_release\of_v0.9.8_vs_release\apps\myapps\fire-in-the-sandbox\fire-in-the-sandbox\src\kinectprojector\libs\dlib\geometry\vector.h(1370): note: see reference to function template instantiation 'dlib::matrix<double,2,2,dlib::default_memory_manager,dlib::row_major_layout>::literal_assign_helper::~literal_assign_helper(void)' being compiled (compiling source file src\vehicle.cpp)
+  c:\users\sangeetha\documents\pg\muenster_gi\courses\sem 2\sandbox\of_v0.9.8_vs_release\of_v0.9.8_vs_release\apps\myapps\fire-in-the-sandbox\fire-in-the-sandbox\src\kinectprojector\libs\dlib\geometry\vector.h(1369): note: see reference to class template instantiation 'dlib::matrix<double,2,2,dlib::default_memory_manager,dlib::row_major_layout>::literal_assign_helper' being compiled (compiling source file src\vehicle.cpp)
+  ETF.cpp
+  fdog.cpp
+  Calibration.cpp
+  ContourFinder.cpp
+  Distance.cpp
+c:\users\sangeetha\documents\pg\muenster_gi\courses\sem 2\sandbox\of_v0.9.8_vs_release\of_v0.9.8_vs_release\addons\ofxcv\libs\ofxcv\src\distance.cpp(32): warning C4700: uninitialized local variable 'bestScore' used
+  Flow.cpp
+  Helpers.cpp
+  Kalman.cpp
+  ObjectFinder.cpp
+  RunningBackground.cpp
+  Tracker.cpp
+C:\Users\Sangeetha\Documents\PG\MUENSTER_GI\courses\SEM 2\Sandbox\of_v0.9.8_vs_release\of_v0.9.8_vs_release\addons\ofxCv\libs\ofxCv\include\ofxCv/Tracker.h(324): warning C4018: '<': signed/unsigned mismatch (compiling source file ..\..\..\..\addons\ofxCv\libs\ofxCv\src\Tracker.cpp)
+  Utilities.cpp
+  Wrappers.cpp
+  ofxDatGuiComponent.cpp
+  ofxSmartFont.cpp
+..\..\..\..\addons\ofxDatGui\src\libs\ofxSmartFont\ofxSmartFont.cpp(126): warning C4018: '<': signed/unsigned mismatch
+..\..\..\..\addons\ofxDatGui\src\libs\ofxSmartFont\ofxSmartFont.cpp(128): warning C4018: '<': signed/unsigned mismatch
+  ofxDatGui.cpp
+  ofxKinectExtras.cpp
+  ofxKinect.cpp
+  failguard.cpp
+  libusbemu.cpp
+  audio.c
+  cameras.c
+  core.c
+  flags.c
+  keep_alive.c
+  loader.c
+  registration.c
+  tilt.c
+..\..\..\..\addons\ofxKinect\libs\libfreenect\src\registration.c(72): warning C4244: '=': conversion from 'double' to 'int32_t', possible loss of data
+..\..\..\..\addons\ofxKinect\libs\libfreenect\src\registration.c(283): warning C4244: '=': conversion from 'double' to 'int32_t', possible loss of data
+..\..\..\..\addons\ofxKinect\libs\libfreenect\src\registration.c(284): warning C4244: '=': conversion from 'double' to 'int32_t', possible loss of data
+..\..\..\..\addons\ofxKinect\libs\libfreenect\src\registration.c(302): warning C4244: 'return': conversion from 'double' to 'uint16_t', possible loss of data
+  usb_libusb10.c
+  ofxModalWindow.cpp
+..\..\..\..\addons\ofxKinect\libs\libfreenect\src\usb_libusb10.c(117): warning C4996: 'strdup': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _strdup. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\string.h(552): note: see declaration of 'strdup'
+  ofxCvColorImage.cpp
+  ofxCvContourFinder.cpp
+  ofxCvFloatImage.cpp
+  ofxCvGrayscaleImage.cpp
+  ofxCvHaarFinder.cpp
+  ofxCvImage.cpp
+  ofxCvShortImage.cpp
+  ofxParagraph.cpp
+  ofxXmlSettings.cpp
+..\..\..\..\addons\ofxParagraph\src\ofxParagraph.cpp(47): warning C4018: '<': signed/unsigned mismatch
+..\..\..\..\addons\ofxParagraph\src\ofxParagraph.cpp(212): warning C4018: '<': signed/unsigned mismatch
+..\..\..\..\addons\ofxParagraph\src\ofxParagraph.cpp(234): warning C4018: '<': signed/unsigned mismatch
+..\..\..\..\addons\ofxParagraph\src\ofxParagraph.cpp(236): warning C4018: '<': signed/unsigned mismatch
+..\..\..\..\addons\ofxParagraph\src\ofxParagraph.cpp(242): warning C4018: '<': signed/unsigned mismatch
+..\..\..\..\addons\ofxParagraph\src\ofxParagraph.cpp(245): warning C4018: '<': signed/unsigned mismatch
+..\..\..\..\addons\ofxParagraph\src\ofxParagraph.cpp(249): warning C4018: '<': signed/unsigned mismatch
+  tinyxml.cpp
+  tinyxmlerror.cpp
+  tinyxmlparser.cpp
+     Creating library bin\Fire-in-the-SandBox_debug.lib and object bin\Fire-in-the-SandBox_debug.exp
+  Fire-in-the-SandBox.vcxproj -> C:\Users\Sangeetha\Documents\PG\MUENSTER_GI\courses\SEM 2\Sandbox\of_v0.9.8_vs_release\of_v0.9.8_vs_release\apps\myApps\Fire-in-the-SandBox\Fire-in-the-SandBox\bin\Fire-in-the-SandBox_debug.exe
+  Fire-in-the-SandBox.vcxproj -> bin\Fire-in-the-SandBox_debug.pdb (Full PDB)
+  
+  	                   9	C:\Users\Sangeetha\Documents\PG\MUENSTER_GI\courses\SEM 2\Sandbox\of_v0.9.8_vs_release\of_v0.9.8_vs_release\export\vs\Win32\

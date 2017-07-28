@@ -1,0 +1,25 @@
+﻿  ofApp.cpp
+src\ofApp.cpp(124): warning C4554: '&': check operator precedence for possible error; use parentheses to clarify precedence
+src\ofApp.cpp(125): warning C4554: '&': check operator precedence for possible error; use parentheses to clarify precedence
+src\ofApp.cpp(361): warning C4554: '&': check operator precedence for possible error; use parentheses to clarify precedence
+src\ofApp.cpp(365): warning C4554: '&': check operator precedence for possible error; use parentheses to clarify precedence
+src\ofApp.cpp(369): warning C4554: '&': check operator precedence for possible error; use parentheses to clarify precedence
+src\ofApp.cpp(374): warning C4554: '&': check operator precedence for possible error; use parentheses to clarify precedence
+src\ofApp.cpp(377): warning C4554: '&': check operator precedence for possible error; use parentheses to clarify precedence
+src\ofApp.cpp(380): warning C4554: '&': check operator precedence for possible error; use parentheses to clarify precedence
+src\ofApp.cpp(383): warning C4554: '&': check operator precedence for possible error; use parentheses to clarify precedence
+src\ofApp.cpp(388): warning C4554: '&': check operator precedence for possible error; use parentheses to clarify precedence
+src\ofApp.cpp(391): warning C4554: '&': check operator precedence for possible error; use parentheses to clarify precedence
+src\ofApp.cpp(394): warning C4554: '&': check operator precedence for possible error; use parentheses to clarify precedence
+c:\users\sangeetha\documents\pg\muenster_gi\courses\sem 2\sandbox\of_v0.9.8_vs_release\of_v0.9.8_vs_release\apps\myapps\magic-sand-master\magic-sand-master\src\kinectprojector\libs\dlib\matrix/matrix.h(1567): warning C4297: 'dlib::matrix<double,2,2,dlib::default_memory_manager,dlib::row_major_layout>::literal_assign_helper::~literal_assign_helper': function assumed not to throw an exception but does
+  c:\users\sangeetha\documents\pg\muenster_gi\courses\sem 2\sandbox\of_v0.9.8_vs_release\of_v0.9.8_vs_release\apps\myapps\magic-sand-master\magic-sand-master\src\kinectprojector\libs\dlib\matrix/matrix.h(1567): note: destructor or deallocator has a (possibly implicit) non-throwing exception specification
+  c:\users\sangeetha\documents\pg\muenster_gi\courses\sem 2\sandbox\of_v0.9.8_vs_release\of_v0.9.8_vs_release\apps\myapps\magic-sand-master\magic-sand-master\src\kinectprojector\libs\dlib\matrix/matrix.h(1566): note: while compiling class template member function 'dlib::matrix<double,2,2,dlib::default_memory_manager,dlib::row_major_layout>::literal_assign_helper::~literal_assign_helper(void)'
+  c:\users\sangeetha\documents\pg\muenster_gi\courses\sem 2\sandbox\of_v0.9.8_vs_release\of_v0.9.8_vs_release\apps\myapps\magic-sand-master\magic-sand-master\src\kinectprojector\libs\dlib\geometry\vector.h(1370): note: see reference to function template instantiation 'dlib::matrix<double,2,2,dlib::default_memory_manager,dlib::row_major_layout>::literal_assign_helper::~literal_assign_helper(void)' being compiled
+  c:\users\sangeetha\documents\pg\muenster_gi\courses\sem 2\sandbox\of_v0.9.8_vs_release\of_v0.9.8_vs_release\apps\myapps\magic-sand-master\magic-sand-master\src\kinectprojector\libs\dlib\geometry\vector.h(1369): note: see reference to class template instantiation 'dlib::matrix<double,2,2,dlib::default_memory_manager,dlib::row_major_layout>::literal_assign_helper' being compiled
+c:\users\sangeetha\documents\pg\muenster_gi\courses\sem 2\sandbox\of_v0.9.8_vs_release\of_v0.9.8_vs_release\apps\myapps\magic-sand-master\magic-sand-master\src\ofapp.cpp(767): warning C4715: 'ofApp::backingDirection': not all control paths return a value
+c:\users\sangeetha\documents\pg\muenster_gi\courses\sem 2\sandbox\of_v0.9.8_vs_release\of_v0.9.8_vs_release\apps\myapps\magic-sand-master\magic-sand-master\src\ofapp.cpp(755): warning C4715: 'ofApp::headingDirection': not all control paths return a value
+c:\users\sangeetha\documents\pg\muenster_gi\courses\sem 2\sandbox\of_v0.9.8_vs_release\of_v0.9.8_vs_release\apps\myapps\magic-sand-master\magic-sand-master\src\ofapp.cpp(777): warning C4715: 'ofApp::checkSameDirection': not all control paths return a value
+  Magic-Sand-master.vcxproj -> C:\Users\Sangeetha\Documents\PG\MUENSTER_GI\courses\SEM 2\Sandbox\of_v0.9.8_vs_release\of_v0.9.8_vs_release\apps\myApps\Magic-Sand-master\Magic-Sand-master\bin\Magic-Sand-master_debug.exe
+  Magic-Sand-master.vcxproj -> bin\Magic-Sand-master_debug.pdb (Full PDB)
+  
+  	                   9	C:\Users\Sangeetha\Documents\PG\MUENSTER_GI\courses\SEM 2\Sandbox\of_v0.9.8_vs_release\of_v0.9.8_vs_release\export\vs\Win32\

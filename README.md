@@ -1,5 +1,5 @@
 # Fire in the SandBox
-	**Fire in the SandBox** is a software for operating an augmented reality sandbox. This was developed as a result of the study project **Fire in the SandBox** at the Institute for Geoinformatics (IFGI), University of Muenster, Germany by Master of Geoinformatics students Charu Manivannan, Mina Karamesouti, Sangeetha Shankar and Zhihao Liu guided by Jun. Prof. Dr. Judith Verstegen. It is based on the [Magic-Sand](https://github.com/thomwolf/Magic-Sand) software by Thomas Wolf. The aim of the project was to reuse the Magic Sand code by Thomas Wolf to simulate Forest Fire Spread.
+**Fire in the SandBox** is a software for operating an augmented reality sandbox. This was developed as a result of the study project **Fire in the SandBox** at the Institute for Geoinformatics (IFGI), University of Muenster, Germany by Master of Geoinformatics students Charu Manivannan, Mina Karamesouti, Sangeetha Shankar and Zhihao Liu guided by Jun. Prof. Dr. Judith Verstegen. It is based on the [Magic-Sand](https://github.com/thomwolf/Magic-Sand) software by Thomas Wolf. The aim of the project was to reuse the Magic Sand code by Thomas Wolf to simulate Forest Fire Spread.
 
 *Last modified on July 28, 2017.*
 

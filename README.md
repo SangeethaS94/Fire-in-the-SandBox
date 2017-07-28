@@ -82,7 +82,7 @@ We have attempted to scale the model to reality. The estimated scales are as fol
 However, these values are approximate and hence should be used with caution.
 
 ## References:
-- Source for Slope and Wind Effects
+- Source for Slope and Wind Effects:
 	**A Qualitative comparison of fire spread models incorporating wind and slope effects**, Weise and Biging, *Forest Science 43.2* (1997): 170 - 180
-- Source for Vegetation Effects
+- Source for Vegetation Effects:
 	**Chapter 4 - "Fire hazard and flammability of European forest types" in the book "Post-fire management and restoration of southern European forests".** Xanthopoulos, Gavriil, Carlo Calfapietra, and Paulo Fernandes, *Springer Netherlands* (2012): 79-92.

@@ -75,9 +75,9 @@ For the game, the function `addHouse()` adds a house at a random location on lan
 
 ## Connection to reality
 We have attempted to scale the model to reality. The estimated scales are as follows:
-- Horizontal Scale: 1:2550
-- Vertical Scale: 1:1040
-- Time Scale: 1:1800 (1 second = 30 minutes) (This scale applies when FrameRate is 1. Time Scale to be adjusted based on the chosen FrameRate)
+- Horizontal Scale: 1:117
+- Vertical Scale: 1:140
+- Time Scale: 1:FrameRate (FrameRate is the value chosen on the "FrameRate" slider in the application)
 
 However, these values are approximate and hence should be used with caution.
 
